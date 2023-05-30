@@ -1,0 +1,4 @@
+mai. 28, 2023 6:56:46 PM LogsBibliotech.LogsBibliotech gerarLogs
+GRAVE: Erro ao gravar logs: Cannot invoke "java.lang.Integer.equals(Object)" because the return value of "Alerta.Alerta.getFk_tipo_alerta()" is null
+mai. 28, 2023 6:56:58 PM LogsBibliotech.LogsBibliotech gerarLogs
+GRAVE: Erro ao gravar logs: Cannot invoke "java.lang.Integer.equals(Object)" because the return value of "Alerta.Alerta.getFk_tipo_alerta()" is null
